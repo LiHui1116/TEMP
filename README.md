@@ -1,8 +1,3 @@
-# TEMP  
-TUUISDIAHODHAO
-SDHASHLAL  
-
-##ASDJLKASDA  
-
-ASDAKSJDAS;DA;DA  
+# Academic writting  
+This is a templet. 
 
